@@ -1,9 +1,7 @@
 {
     "name": "FileStore",
-    "rootNamespace": "",
-    "references": [
-        "GUID:74f828944bce3594f91fe1ef6ee2c8b7"
-    ],
+    "rootNamespace": "FileStore",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
