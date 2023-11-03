@@ -1,0 +1,19 @@
+{
+  "name": "com.heax3.file-store-unity",
+  "version": "1.0.0",
+  "displayName": "File Store",
+  "description": "Utility classes to interact with the file system.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/HeaX3/file-store-unity",
+  "licensesUrl": "https://github.com/HeaX3/file-store-unity/LICENSE",
+  "keywords": [],
+  "dependencies": {
+    "com.heax3.unity-essentials": "1.0.0"
+  },
+  "author": {
+    "name": "HeaX3",
+    "email": "heax@moonsama.com",
+    "url": "https://www.moonsama.com"
+  }
+}
