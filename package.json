@@ -6,7 +6,7 @@
   "unity": "2022.3",
   "unityRelease": "12f1",
   "documentationUrl": "https://github.com/HeaX3/file-store-unity",
-  "licensesUrl": "https://github.com/HeaX3/file-store-unity/LICENSE",
+  "licensesUrl": "https://github.com/HeaX3/file-store-unity",
   "keywords": [],
   "dependencies": {
 	"com.unity.nuget.newtonsoft-json": "3.2.1"
