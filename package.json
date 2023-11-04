@@ -8,6 +8,9 @@
   "documentationUrl": "https://github.com/HeaX3/file-store-unity",
   "licensesUrl": "https://github.com/HeaX3/file-store-unity/LICENSE",
   "keywords": [],
+  "dependencies": {
+	"com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
   "author": {
     "name": "HeaX3",
     "email": "heax@moonsama.com",
